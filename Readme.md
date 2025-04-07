@@ -10,8 +10,7 @@
 
 </div>
 
-![Demo](demo.gif)  
-*(Watch the full demo [here](https://youtu.be/your-demo))*
+*(Watch the full demo [here](https://www.linkedin.com/posts/rishi-kant-shukla-046208242_computervision-python-gamingtech-activity-7315061344490151938-1HaU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwv7jYBG1dR2lToGL5kO68Gex7awAAzGWE)))*
 
 ## ✨ Features
 - 🟡 **Jump** by raising your head above the yellow line  
@@ -40,33 +39,21 @@
 # Clone the repository
 git clone https://github.com/yourusername/temple-run-motion-controller.git
 cd temple-run-motion-controller
-
+```
+```bash
 # Install dependencies
 pip install -r requirements.txt
-
+```
 Usage
-bash
+```bash
 Copy
 python temple_run_controller.py
+
+```
 Game Controls:
 
 Movement	Action	Visual Cue
 Head ↑	Jump	Nose crosses yellow line
 Head ↓	Slide	Nose crosses red line
 Lean ←/→	Steer	Nose moves left/right of center
-📸 Screenshots
-<div align="center"> <img src="screenshots/control-lines.jpg" width="45%" alt="Control Lines"> <img src="screenshots/jump-detection.jpg" width="45%" alt="Jump Detection"> </div>
-🌟 Advanced Features
-Customizable sensitivity in config.py
 
-Performance modes for low-end devices
-
-Multiplayer support (experimental)
-
-🤝 Contributing
-Pull requests welcome! See CONTRIBUTING.md for guidelines.
-
-📜 License
-This project is licensed under the MIT License - see LICENSE file for details.
-
-Made with ❤️ by [Your Name] | Twitter
