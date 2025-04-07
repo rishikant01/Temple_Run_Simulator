@@ -43,3 +43,30 @@ cd temple-run-motion-controller
 
 # Install dependencies
 pip install -r requirements.txt
+
+Usage
+bash
+Copy
+python temple_run_controller.py
+Game Controls:
+
+Movement	Action	Visual Cue
+Head ↑	Jump	Nose crosses yellow line
+Head ↓	Slide	Nose crosses red line
+Lean ←/→	Steer	Nose moves left/right of center
+📸 Screenshots
+<div align="center"> <img src="screenshots/control-lines.jpg" width="45%" alt="Control Lines"> <img src="screenshots/jump-detection.jpg" width="45%" alt="Jump Detection"> </div>
+🌟 Advanced Features
+Customizable sensitivity in config.py
+
+Performance modes for low-end devices
+
+Multiplayer support (experimental)
+
+🤝 Contributing
+Pull requests welcome! See CONTRIBUTING.md for guidelines.
+
+📜 License
+This project is licensed under the MIT License - see LICENSE file for details.
+
+Made with ❤️ by [Your Name] | Twitter
