@@ -1,0 +1,72 @@
+🏃‍♂️ Temple Run Body Motion Controller
+Control Temple Run with your body movements! This Python project uses your webcam to detect jumps, slides, and turns, translating them into game controls. No controllers needed - just move your body!
+
+🌟 Features
+Jump by raising your head above the yellow line
+
+Slide by lowering your head below the red line
+
+Steer left/right by leaning
+
+Adjustable control lines (click & drag)
+
+Real-time visual feedback
+
+🛠️ Tech Stack
+OpenCV for camera processing
+
+MediaPipe for body tracking
+
+PyAutoGUI for keyboard control
+
+🚀 Setup
+Install requirements:
+
+bash
+Copy
+pip install opencv-python mediapipe pyautogui
+Run the game controller:
+
+bash
+Copy
+python temple_run_controller.py
+Play!
+
+Position yourself in camera view
+
+Adjust control lines by dragging them
+
+Move your head to control the game
+
+🎮 Controls
+Movement	Action
+Head above yellow line	Jump (↑)
+Head below red line	Slide (↓)
+Lean left	Move left (←)
+Lean right	Move right (→)
+📝 Tips
+Stand 1-2 meters from your webcam
+
+Ensure good lighting for best tracking
+
+Adjust line positions for your play style
+
+📸 Demo
+Demo GIF showing gameplay
+
+Note: Requires Temple Run 2 running in browser (Poki.com)
+
+Made with ❤️ by [Your Name]
+Let me know if you create cool modifications!
+
+#Python #ComputerVision #Gaming #OpenSource
+
+To add later:
+
+Video demo link
+
+Advanced customization section
+
+Troubleshooting guide
+
+Would you like me to add any specific details about the pose detection logic or game integration? 😊
